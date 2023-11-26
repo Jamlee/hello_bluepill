@@ -1,7 +1,7 @@
 # Hello BluePill
 
-![](1.Hardware\STM32-Blue-Pill\Images\STM32F103C8T6_Blue_Pill-0.jpg)
-![](1.Hardware\STM32-Blue-Pill\Images\The-Generic-STM32F103-Pinout-Diagram.jpg)
+![](1.Hardware/STM32-Blue-Pill/Images/STM32F103C8T6_Blue_Pill-0.jpg)
+![](1.Hardware/STM32-Blue-Pill/Images/The-Generic-STM32F103-Pinout-Diagram.jpg)
 
 "Hello BluePill" is a basic program for blinking LEDs based on the Stm32 BluePill development board. The development tools used are as follows:
 - arm-none-eabi-gcc: version GNU Arm Embedded Toolchain 10.3-2021.10

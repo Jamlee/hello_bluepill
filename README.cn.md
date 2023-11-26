@@ -1,7 +1,7 @@
 # Hello BluePill
 
-![](1.Hardware\STM32-Blue-Pill\Images\STM32F103C8T6_Blue_Pill-0.jpg)
-![](1.Hardware\STM32-Blue-Pill\Images\The-Generic-STM32F103-Pinout-Diagram.jpg)
+![](1.Hardware/STM32-Blue-Pill/Images/STM32F103C8T6_Blue_Pill-0.jpg)
+![](1.Hardware/STM32-Blue-Pill/Images/The-Generic-STM32F103-Pinout-Diagram.jpg)
 
 "Hello BluePill" 是基于 Stm32 BluePill 开发板编写的最基础的闪烁LED程序。使用的开发工具如下:
 - arm-none-eabi-gcc: 版本 GNU Arm Embedded Toolchain 10.3-2021.10
